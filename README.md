@@ -18,6 +18,10 @@ A simple text editor that is also a Progressive Web Application
 
 [Questions](#questions)
 
+[Screenshots](#screenshots)
+
+[Links](#links)
+
 ## Installation
 Just click the install button.
 
@@ -35,3 +39,21 @@ Testing has yet to be decveloped.
 
 ## Questions
 For any questions or suggestions, please reach me at github.com/Levi-Man or at indra.levi.manahan@gmail.com.
+
+## Screenshots
+
+Web application
+<img src="./assets/Screenshot 2024-01-29 160323.png" alt="screenshot off JATE">
+
+Installation
+<img src="./assets/Screenshot 2024-01-29 160358.png" alt="screenshot off JATE">
+
+Installed application
+<img src="./assets/Screenshot 2024-01-29 160421.png" alt="screenshot off JATE">
+
+
+## Links
+Deployed application on Render: https://ilm-jate.onrender.com/
+
+GitHub repo: https://github.com/Levi-Man/JATE 
+
