@@ -57,3 +57,4 @@ Deployed application on Render: https://ilm-jate.onrender.com/
 
 GitHub repo: https://github.com/Levi-Man/JATE 
 
+**Thanks to Sal Hobbi, Mark Alfano and Bahar Ossareh for helping me debug the error I was encountering with the install button. 
