@@ -46,10 +46,10 @@ Web application
 <img src="./assets/Screenshot 2024-01-29 160323.png" alt="screenshot off JATE">
 
 Installation
-<img src="./assets/Screenshot 2024-01-29 160358.png" alt="screenshot off JATE">
+<img src="./assets/Screenshot 2024-01-29 160421.png" alt="screenshot off JATE">
 
 Installed application
-<img src="./assets/Screenshot 2024-01-29 160421.png" alt="screenshot off JATE">
+<img src="./assets/Screenshot 2024-01-29 160358.png" alt="screenshot off JATE">
 
 
 ## Links
